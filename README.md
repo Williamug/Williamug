@@ -3,7 +3,7 @@
 I'm William
 
 
-I'm a passionate BackEnd developer specialising in Laravel development from Uganda
+I'm a passionate BackEnd developer specialising in Laravel development.
 
 **About me**
 
