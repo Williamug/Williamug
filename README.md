@@ -3,11 +3,11 @@
 I'm William
 
 
-I'm a passionate BackEnd developer specialising in Laravel development.
+I'm a passionate Backend developer specialising in Laravel development.
 
 **About me**
 
-- 💼 BackEnd engineer at [Msenyu Technologies](https://msenyu.com)
+- 💼 Backend engineer at [Msenyu Technologies](https://msenyu.com)
 - 📈 I build Msenyu School System
 
 - ❤️ I love writing PHP, and I am passionate about [Laravel](https://www.laravel.com)
