@@ -13,7 +13,7 @@ I'm a passionate Backend developer specialising in Laravel development.
 - 📈 I build **SindikaSMS** (SindikaSMS is a web application for sending bulk sms.)
 
  
-- 📦I built an open source [money formatter package](https://github.com/Williamug/money-formatter)
+- 📦I built an open source [money formatter package](https://github.com/Williamug/money-formatter) for Laravel
 
 
 - ❤️ I love writing PHP, and I am passionate about [Laravel](https://www.laravel.com)
