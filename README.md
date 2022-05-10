@@ -8,7 +8,9 @@ I'm a passionate Backend developer specialising in Laravel development.
 **About me**
 
 - 💼 Backend engineer at [Msenyu Technologies](https://msenyu.com)
-- 📈 I build Msenyu School System
+
+- 📈 I build **AllSchool** (A school management system that help manage school with ease.)
+- 📈 I build **SindikaSMS** (A bulk sms sinding application that helps your run champaigns on mobile phones.)
 
 - ❤️ I love writing PHP, and I am passionate about [Laravel](https://www.laravel.com)
 
