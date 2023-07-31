@@ -7,10 +7,12 @@ I'm a passionate Backend developer specialising in Laravel development.
 
 **About me**
 
-- 💼 Backend engineer at [Msenyu Technologies](https://msenyu.com)
+- 💼 Backend engineer at [Nugsoft Technologies](https://nugsoft.com/)
 
-- 📈 I build **AllSchool24** (A school management system that helps you manage your school with ease.)
-- 📈 I build **SindikaSMS** (SindikaSMS is a web application for sending bulk sms.)
+- 💼 Former Backend engineer at [Msenyu Technologies](https://msenyu.com/)
+- 
+- 📈 I built **AllSchool24** (A school management system that helps you manage your school with ease.)
+- 📈 I built **SindikaSMS** (SindikaSMS is a web application for sending bulk sms.)
 
  
 - 📦 I built an open source [money formatter package](https://github.com/Williamug/money-formatter) for Laravel
