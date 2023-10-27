@@ -9,11 +9,13 @@ I'm a passionate Backend developer specialising in Laravel development.
 
 - 💼 Backend engineer at [Nugsoft Technologies](https://nugsoft.com/)
 
+- 💼 Former Software developer at [Tunga](https://tunga.io/)
+
 - 💼 Former Backend engineer at [Msenyu Technologies](https://msenyu.com/)
 
 - 💼 Former CTO at [Creative Summit](https://creativesummit.xyz/)
  
-<!--- - 📈 I built **AllSchool24** (A school management system that helps you manage your school with ease.) --->
+- 📈 I built **AllSchool24** (A school management system that helps you manage your school with ease.)
 
 - 📈 I built **SindikaSMS** (SindikaSMS is a web application for sending bulk SMS.)
 
