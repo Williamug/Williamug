@@ -9,7 +9,7 @@ I'm a passionate Backend developer specialising in Laravel development.
 
 - 💼 Backend engineer at [Nugsoft Technologies](https://nugsoft.com/)
 
-- 💼 Former Software developer at [Tunga](https://tunga.io/)
+- 💼 Software developer at [Tunga](https://tunga.io/)
 
 - 💼 Former Backend engineer at [Msenyu Technologies](https://msenyu.com/)
 
