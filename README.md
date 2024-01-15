@@ -1,6 +1,6 @@
 ### Hi there :rocket: :computer: :muscle:
 
-I'm **williamDk** (**_Night Hunter_**:bow_and_arrow: )
+I'm **williamDk** (**_Night Hunter_**:bow_and_arrow: :pisces:)
 
 
 I'm a passionate Backend engineer specializing in Laravel development.
@@ -9,7 +9,7 @@ I'm a passionate Backend engineer specializing in Laravel development.
 
 - 💼 Backend engineer at [Nugsoft Technologies](https://nugsoft.com/)
 
-- 💼 Software developer at [Tunga](https://tunga.io/dev-profile/2557/Asaba/)
+- 💼 Former Software developer at [Tunga](https://tunga.io/dev-profile/2557/Asaba/)
 
 - 💼 Former Backend engineer at [Msenyu Technologies](https://msenyu.com/)
 
