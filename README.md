@@ -1,6 +1,6 @@
-### Hi there :rocket: :computer: :muscle:
+### Hi there :computer: :muscle: :pisces:
 
-I'm **williamDk** (**_Night Hunter_**:bow_and_arrow: :pisces:)
+I'm **williamDk** (**_Night Hunter_**:bow_and_arrow:)
 
 
 I'm a passionate Backend engineer specializing in Laravel development.
