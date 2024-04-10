@@ -20,8 +20,8 @@ I'm a passionate Backend engineer specializing in Laravel development.
 - 📈 I built **SindikaSMS** (SindikaSMS is a web application for sending bulk SMS.)
 
  
-- 📦 I built an open source [money formatter package](https://github.com/Williamug/money-formatter) for Laravel
-- 📦 I built an open source [versioning](https://github.com/Williamug/versioning) for PHP and Laravel
+- 📦 I built an open source [money formatter package](https://github.com/Williamug/money-formatter) package for Laravel
+- 📦 I built an open source [versioning](https://github.com/Williamug/versioning) package for PHP and Laravel
 - 📦 [starter kit for Laravel Jetstream](https://github.com/Williamug/jetstream-laravel-starter-kit).
 
 - 💡 Don't forget to check my open source [tips and tricks](https://github.com/Williamug/tips-and-tricks) repo to enrich your skills
