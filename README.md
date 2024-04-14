@@ -30,6 +30,7 @@ I'm a passionate Backend engineer specializing in Laravel development.
 - ❤️ I love writing [PHP](https://www.php.net/), and I am passionate about [Laravel](https://www.laravel.com)
 
 - 🫶 Contributor on [stack overflow](https://stackoverflow.com/users/10679298/williamdk)
+- 📚 Written a number of articles on [Dev.to](https://dev.to/williamdk)
 
 - 💬 Ask me about Laravel [here](https://twitter.com/WilliamAsaba)
 
