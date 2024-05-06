@@ -24,13 +24,13 @@ I'm a passionate Backend engineer specializing in Laravel development.
 - 📦 I built an open source [versioning](https://github.com/Williamug/versioning) package for PHP and Laravel
 - 📦 I built [starter kit for Laravel Jetstream](https://github.com/Williamug/jetstream-laravel-starter-kit).
 
-- 💡 I have written some open source [tips and tricks](https://github.com/Williamug/tips-and-tricks)
+- 💡 [Tips and Tricks](https://github.com/Williamug/tips-and-tricks)
 
 
 - ❤️ I love writing [PHP](https://www.php.net/), and I am passionate about [Laravel](https://www.laravel.com)
 
 - 🫶 Contributor on [stack overflow](https://stackoverflow.com/users/10679298/williamdk)
-- 📚 Written some articles on [Dev.to](https://dev.to/williamdk)
+- 📚 Writer on [Dev.to](https://dev.to/williamdk)
 
 - 💬 Ask me about Laravel [here](https://twitter.com/WilliamAsaba)
 
