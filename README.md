@@ -7,6 +7,8 @@ I'm a passionate Backend engineer specializing in Laravel development.
 
 **About me**
 
+- 💼 Acting CTO at [Nugsoft Technologies](https://nugsoft.com/)
+  
 - 💼 Backend engineer at [Nugsoft Technologies](https://nugsoft.com/)
 
 - 💼 Former Software developer at [Tunga](https://tunga.io/dev-profile/2557/Asaba/)
