@@ -7,7 +7,7 @@ I'm a passionate Backend engineer specializing in Laravel development.
 
 **About me**
 
-- 💼 Acting CTO at [Nugsoft Technologies](https://nugsoft.com/)
+- 💼 CTO at [Nugsoft Technologies](https://nugsoft.com/)
   
 - 💼 Backend engineer at [Nugsoft Technologies](https://nugsoft.com/)
 
