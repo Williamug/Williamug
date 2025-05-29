@@ -24,8 +24,10 @@ I'm a passionate Backend engineer specializing in Laravel development.
  
 - 📦 I built an open-source [money formatter package](https://github.com/Williamug/money-formatter) package for Laravel
 - 📦 I built an open-source [versioning](https://github.com/Williamug/versioning) package for PHP and Laravel
-- 📦 I built [starter kit for Laravel Jetstream](https://github.com/Williamug/jetstream-laravel-starter-kit).
+- 📦 I built a [starter kit for Laravel Jetstream](https://github.com/Williamug/jetstream-laravel-starter-kit).
 - 📦 I built an open-source [MaxiEditor](https://github.com/Williamug/maxi-editor).
+- 📦 Building an open-source PHP framework [Pocketframe](https://pocketframe.github.io/docs/).
+
 - 💡 [Tips and Tricks](https://github.com/Williamug/tips-and-tricks)
 
 
