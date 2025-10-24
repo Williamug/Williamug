@@ -3,7 +3,7 @@
 I'm **williamDk** (**_Night Hunter_**:bow_and_arrow:)
 
 
-I'm a passionate Backend engineer specializing in Laravel development.
+I'm a passionate Backend engineer specialising in Laravel development.
 
 **About me**
 
@@ -19,7 +19,7 @@ I'm a passionate Backend engineer specializing in Laravel development.
  
 - 📈 I built **AllSchool24** 
 
-- 📈 I built **SindikaSMS** (SindikaSMS is a web application for sending bulk SMS.)
+- 📈 I built **SindikaSMS** 
 
  
 - 📦 I built an open-source [money formatter package](https://github.com/Williamug/money-formatter) package for Laravel
