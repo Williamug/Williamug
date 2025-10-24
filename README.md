@@ -27,6 +27,7 @@ I'm a passionate Backend engineer specializing in Laravel development.
 - 📦 I built a [starter kit for Laravel Jetstream](https://github.com/Williamug/jetstream-laravel-starter-kit).
 - 📦 I built an open-source [MaxiEditor](https://github.com/Williamug/maxi-editor).
 - 📦 Building an open-source PHP framework [Pocketframe](https://pocketframe.github.io/docs/).
+- 📦 I built an open-source [Site Manager](https://github.com/Williamug/site-manager).
 
 - 💡 [Tips and Tricks](https://github.com/Williamug/tips-and-tricks)
 
