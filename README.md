@@ -25,9 +25,9 @@ I'm a passionate Backend engineer specializing in Laravel development.
 - 📦 I built an open-source [money formatter package](https://github.com/Williamug/money-formatter) package for Laravel
 - 📦 I built an open-source [versioning](https://github.com/Williamug/versioning) package for PHP and Laravel
 - 📦 I built a [starter kit for Laravel Jetstream](https://github.com/Williamug/jetstream-laravel-starter-kit).
-- 📦 I built an open-source [MaxiEditor](https://github.com/Williamug/maxi-editor).
+- 📦 I built an open-source rich editor [MaxiEditor](https://github.com/Williamug/maxi-editor).
 - 📦 Building an open-source PHP framework [Pocketframe](https://pocketframe.github.io/docs/).
-- 📦 I built an open-source [Site Manager](https://github.com/Williamug/site-manager).
+- 📦 I built an open-source [Site Manager](https://github.com/Williamug/site-manager) for server and web applications management
 
 - 💡 [Tips and Tricks](https://github.com/Williamug/tips-and-tricks)
 
@@ -40,7 +40,7 @@ I'm a passionate Backend engineer specializing in Laravel development.
 - 💬 Ask me about Laravel [here](https://twitter.com/WilliamAsaba)
 
 
-##### Reach me out on 
+##### Reach out on 
 <p><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2FWilliamAsaba"><img src="https://img.shields.io/badge/github-follow-blue"></p>
 
 [![committers.top badge](https://user-badge.committers.top/uganda/Williamug.svg)](https://user-badge.committers.top/uganda/Williamug)
