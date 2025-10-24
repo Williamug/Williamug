@@ -16,10 +16,14 @@ I'm a passionate Backend engineer specialising in Laravel development.
 - 💼 Former Backend engineer at [Msenyu Technologies](https://msenyu.com/)
 
 - 💼 Former CTO at [Creative Summit](https://creativesummit.xyz/)
+
+---
  
 - 📈 I built **AllSchool24** 
 
 - 📈 I built **SindikaSMS** 
+
+ ---
 
  
 - 📦 I built an open-source [money formatter package](https://github.com/Williamug/money-formatter) package for Laravel
@@ -28,6 +32,8 @@ I'm a passionate Backend engineer specialising in Laravel development.
 - 📦 I built an open-source rich editor [MaxiEditor](https://github.com/Williamug/maxi-editor).
 - 📦 Building an open-source PHP framework [Pocketframe](https://pocketframe.github.io/docs/).
 - 📦 I built an open-source [Site Manager](https://github.com/Williamug/site-manager) for server and web applications management
+
+---
 
 - 💡 [Tips and Tricks](https://github.com/Williamug/tips-and-tricks)
 
@@ -38,6 +44,8 @@ I'm a passionate Backend engineer specialising in Laravel development.
 - 📚 Writer on [Dev.to](https://dev.to/williamdk)
 
 - 💬 Ask me about Laravel [here](https://twitter.com/WilliamAsaba)
+
+---
 
 
 ##### Reach out on 
