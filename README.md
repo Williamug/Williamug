@@ -18,12 +18,6 @@ I'm a passionate Backend engineer specialising in Laravel development.
 - 💼 Former CTO at [Creative Summit](https://creativesummit.xyz/)
 
 ---
- 
-- 📈 I built **AllSchool24** 
-
-- 📈 I built **SindikaSMS** 
-
- ---
 
  
 - 📦 I built an open-source [money formatter package](https://github.com/Williamug/money-formatter) package for Laravel
