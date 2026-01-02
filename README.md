@@ -47,3 +47,6 @@ I'm a passionate Backend engineer specialising in Laravel development.
 
 [![committers.top badge](https://user-badge.committers.top/uganda/Williamug.svg)](https://user-badge.committers.top/uganda/Williamug)
 
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b)](https://whyphp.dev)
+
+
